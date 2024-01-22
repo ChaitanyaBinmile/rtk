@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "First Post",
+      "body": "This is the body of the first post."
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "title": "Second Post",
+      "body": "This is the body of the second post."
+    },
+    {
+      "id": 640.7066098397228,
+      "title": "firstcreattion",
+      "body": "jdfaslknfla",
+      "userId": 759.8302619956403
+    },
+    {
+      "id": 443.10457919450744,
+      "title": "dnm am",
+      "body": "dsnaf",
+      "userId": 516.1658728348284
+    }
+  ]
+}
